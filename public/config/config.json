@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0x52f77b960891d7f359d5a0a9e81774fa34dadf5b",
+  "SCAN_LINK": "https://etherscan.io/address/0x52f77b960891d7f359d5a0a9e81774fa34dadf5b",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Pudgy Pepes Art",
+  "SYMBOL": "Pudgy Pepes Art",
+  "MAX_SUPPLY": 8888,
+  "DISPLAY_COST": 0.0025,
+  "freetokens":2,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 20,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pudgy-pepes-art",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://",
+  "SHOW_BACKGROUND": false
+}
