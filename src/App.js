@@ -594,9 +594,9 @@ function App() {
                     <s.SpacerSmall />
                     <s.SpacerSmall />
                     <s.TextTotal style={{color: "black"}}>
-                      First TX MINT 2 Free 
+                      You can MINT 2 Free NFTs per wallet
                       <s.SpacerSmall />
-                      Then use MINT for TX with price
+                      Then use MINT button, for 0.0025 ETH per each
                     </s.TextTotal>
                     <s.SpacerSmall />
                     <s.SpacerXSmall />
