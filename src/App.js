@@ -587,8 +587,6 @@ function App() {
                     <s.SpacerSmall />
                     <s.TextTotal style={{color: "black"}}>
                     </s.TextTotal>
-                    <s.SpacerSmall />
-                    <s.SpacerXSmall />
                     <s.Container ai={"center"} jc={"center"} fd={"column"}>
                     </s.Container>
                     <s.SpacerSmall />
