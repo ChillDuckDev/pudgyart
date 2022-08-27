@@ -583,34 +583,13 @@ function App() {
                       SetMax
                     </Maxbtn>
                     <s.SpacerSmall />
-                    <Maxbtn
-                        onClick={(e) => {
-                          e.preventDefault();
-                          settokens(CONFIG.freetokens);
-                        }}
-                        >
-                      Set Free Tokens
-                    </Maxbtn>
                     <s.SpacerSmall />
                     <s.SpacerSmall />
                     <s.TextTotal style={{color: "black"}}>
-                      You can MINT 2 Free NFTs per wallet
-                      <s.SpacerSmall />
-                      Then use MINT button, for 0.0025 ETH per each
                     </s.TextTotal>
                     <s.SpacerSmall />
                     <s.SpacerXSmall />
                     <s.Container ai={"center"} jc={"center"} fd={"column"}>
-                            <StyledButton
-                            disabled={claimfree ? 1 : 0}
-                            onClick={(e) => {
-                              e.preventDefault();
-                              Claimfree();
-                              getData();
-                            }}
-                          >
-                            {claimfree ? <Loader speed="fast" content="Minting..." /> : "MINT 2 Free"} 
-                          </StyledButton>
                     </s.Container>
                     <s.SpacerSmall />
                     <s.SpacerXSmall />
